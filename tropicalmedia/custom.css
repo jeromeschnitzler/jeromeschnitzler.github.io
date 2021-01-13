@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+.container-md {
+	background-image: url(bg720.png);
+	max-width: 720px;
+}
+
+.row {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+form {
+	background-color: transparent;
+}
+
+.form-control {
+	background-color: transparent;
+}
+
+.form-floating {
+	background-color: rgba(0,128,24,0.1);
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+h2 {
+	font-family: Allura;
+	color: green;
+	font-size: 3rem;
+}
+
+p {
+	color: green;
+}
+
+.alert-success {
+	background-color: rgba(255,255,255,0.4);
+}
