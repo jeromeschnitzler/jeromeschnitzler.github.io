@@ -3,6 +3,7 @@
 .container-md {
 	background-image: url(bg720.png);
 	max-width: 720px;
+	min-width: 720px;
 }
 
 .row {
